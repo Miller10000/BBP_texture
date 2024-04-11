@@ -1,0 +1,352 @@
+{
+    "Version": "2.5",
+    "EnableAutoCalculation": 0,
+    "EnableAutoDestockAtRestart": 0,
+    "EnableDefaultTraderStock": 0,
+    "TraderCategories": [
+        
+		{
+            "CategoryName": "BBP Carpet 1",
+            "Products": [
+				"Blacks_Flooring_Carpet_1,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_2,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_3,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_4,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_5,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_6,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_7,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_8,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_9,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_10,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_11,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_12,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_12A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_13,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_14,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_15,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_16,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_17,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_18,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_19,1,-1,1,600,0.3"
+
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 2",
+            "Products": [
+				"Blacks_Flooring_Carpet_20,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_21,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_22,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_23,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_23A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_24,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_25,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_26,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_27,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_28,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_29,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_30,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_31,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_32,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_33,1,-1,1,600,0.3",
+				"Blacks_Flooring_Carpet_34,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_1,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_2,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_3,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_4,1,-1,1,600,0.3"
+
+			
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 3",
+            "Products": [
+				"Blacks_Flooring_Solid_5,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_6,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_7,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_8,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_8A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_9,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_10,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_10A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_11,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_11A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_12,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_13,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_14,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_14A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_15,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_16,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_17,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_18,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_19,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_20,1,-1,1,600,0.3"
+
+				
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 4",
+            "Products": [
+				"Blacks_Flooring_Solid_21,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_22,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_23,1,-1,1,600,0.3",
+				"Blacks_Flooring_Solid_24,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_1,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_2,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_2A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_3,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_4,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_5,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_6,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_7,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_8,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_9,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_10,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_11,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_12,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_13,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_14,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_15,1,-1,1,600,0.3"
+
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 5",
+            "Products": [
+				"Blacks_Flooring_Tile_16,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_17,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_18,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_19,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_19A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_20,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_21,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_22,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_23,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_23A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_24,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_24A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_25,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_25A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_26,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_27,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_27A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_28,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_29,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_29A,1,-1,1,600,0.3"
+
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 6",
+            "Products": [
+				"Blacks_Flooring_Tile_30,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_31,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_32,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_32A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_33,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_34,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_34A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_35,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_36,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_36A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_37,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_37A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_38,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_39,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_40,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_40A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_41,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_42,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_42A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_43,1,-1,1,600,0.3"
+
+			
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 7",
+            "Products": [
+				"Blacks_Flooring_Tile_43A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_44,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_44A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_45,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_46,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_47,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_48,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_48A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_49,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_50,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_51,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_51A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_52,1,-1,1,600,0.3",
+				"Blacks_Flooring_Tile_53,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_1,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_2,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_3,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_3A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_4,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_4A,1,-1,1,600,0.3"
+
+			
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 8",
+            "Products": [
+				"Blacks_Flooring_Wood_5,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_6,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_7,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_8,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_9,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_10,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_10A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_11,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_12,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_13,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_14,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_15,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_16,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_17,1,-1,1,600,0.3",
+				"Blacks_Flooring_Wood_18,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc12,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc13,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc14,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc14A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc15,1,-1,1,600,0.3"
+
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 9",
+            "Products": [
+				"Blacks_Flooring_Misc16,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc17,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc18,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc22,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc24,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc25,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc26,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc26A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc27,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc28,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc28A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc29,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc30,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc31,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc32,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc33,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc34,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc35,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc36,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc37,1,-1,1,600,0.3"
+
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 10",
+            "Products": [
+				"Blacks_Flooring_Misc38,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc42,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc43,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc48,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc49,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc49A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc50,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc50A,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc56,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc58,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc65,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc66,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc73,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc74,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc75,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc76,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc77,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc78,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc79,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc81,1,-1,1,600,0.3"
+
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 11",
+            "Products": [
+				"Blacks_Flooring_Misc82,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc83,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc84,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc85,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc86,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc87,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc88,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc89,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc90,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc91,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc92,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc93,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc94,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc103,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc104,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc110,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc111,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc112,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc116,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc117,1,-1,1,600,0.3"
+
+
+			
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 12",
+            "Products": [
+				"Blacks_Flooring_Misc118,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc119,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc121,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc145,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc147,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc148,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc151,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc153,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc154,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc156,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc162,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc163,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc166,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc167,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc168,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc169,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc171,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc172,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc173,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc174,1,-1,1,600,0.3"
+
+
+
+			
+            ]
+        },
+		{
+            "CategoryName": "BBP Carpet 13",
+            "Products": [
+				"Blacks_Flooring_Misc175,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc176,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc179,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc180,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc181,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc182,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc183,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc184,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc187,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc188,1,-1,1,600,0.3",
+				"Blacks_Flooring_Misc193,1,-1,1,600,0.3"
+
+
+
+			
+            ]
+        }
+        
+    ]
+}
+

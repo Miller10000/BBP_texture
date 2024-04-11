@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>	
+	<type name="Blacks_Flooring_Carpet_1">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_2">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_3">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_4">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_5">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_6">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_7">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_8">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_9">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_10">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_11">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_12">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_12A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_13">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_14">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_15">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_16">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_17">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_18">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_19">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_20">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Carpet_21">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_22">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_23">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Carpet_23A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_24">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_25">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Carpet_26">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_27">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_28">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_29">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_30">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_31">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_32">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_33">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Carpet_34">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_1">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_2">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_3">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_4">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_5">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_6">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_7">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_8">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_8A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_9">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_10">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_10A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_11">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_11A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_12">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_13">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_14">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_14A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Solid_15">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_16">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_17">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Solid_18">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_19">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_20">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Solid_21">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_22">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_23">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Solid_24">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_1">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_2">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_2A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_3">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_4">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_5">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_6">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_7">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_8">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_9">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_10">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_11">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_12">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Murals_Bookshelf_08A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_13">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_14">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_15">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_16">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_17">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_18">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_19">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_19A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_20">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Tile_21">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_22">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_23">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Tile_23A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_24">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_24A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Tile_25">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_25A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_26">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_27">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_27A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_28">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_29">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_29A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_30">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_31">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_32">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_32A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_33">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_34">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_34A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_35">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_36">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_36A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_37">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_37A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_38">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_39">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_40">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_40A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_41">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_42">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_42A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Tile_43">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_43A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_44">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Tile_44A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_45">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_46">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Tile_47">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_48">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_48A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_49">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_50">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_51">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_51A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_52">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Tile_53">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_1">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_2">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_3">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_3A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_4">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_4A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_5">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_6">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_7">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_8">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_9">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_10">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_10A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_11">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_12">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_13">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_14">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_15">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Wood_16">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_17">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Wood_18">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc12">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc13">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc14">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc14A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc15">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc16">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc17">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc18">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc22">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc24">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc25">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc26">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc26A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc27">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc28">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc28A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc29">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc30">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc31">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc32">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc33">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Misc34">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc35">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc36">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Misc37">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc38">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc42">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+  	<type name="Blacks_Flooring_Misc43">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc48">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc49">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc49A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc50">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc50A">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc56">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc58">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc65">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc66">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc73">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc74">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc75">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc76">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc77">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc78">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc79">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc81">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc82">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc83">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc84">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc85">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc86">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc87">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc88">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc89">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc90">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc91">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc92">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc93">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc94">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc103">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc104">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc110">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc111">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc112">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc116">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc117">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc118">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc119">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc121">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc145">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc147">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc148">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc151">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc153">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc154">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc156">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc162">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc163">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc166">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc167">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc168">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc169">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc171">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc172">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc173">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc174">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc175">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc176">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc179">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc180">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc181">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc182">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc183">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc184">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc187">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc188">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Blacks_Flooring_Misc193">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+</types>

@@ -1,0 +1,26 @@
+{
+    "Version": "2.5",
+    "IDs": [
+        
+		{
+            "Id": 0,
+            "Categories": [
+				"BBP Plaster 1",
+				"BBP Plaster 2",
+				"BBP Plaster 3",
+				"BBP Plaster 4",
+				"BBP Plaster 5",
+				"BBP Plaster 6",
+				"BBP Plaster 7"
+				
+                                            
+            ],
+		    "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }
+		
+		
+		
+		
+	]		
+}

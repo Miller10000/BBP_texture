@@ -1,0 +1,287 @@
+{
+    "Version": "2.5",
+    "EnableAutoCalculation": 0,
+    "EnableAutoDestockAtRestart": 0,
+    "EnableDefaultTraderStock": 0,
+    "TraderCategories": [
+        
+		{
+            "CategoryName": "BBP Wallpaper 1",
+            "Products": [
+				"BBP_Wallpaper_Brick04,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Brick05,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Brick06,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Brick07,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Brick08,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Brick10,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Brick11,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Brick12,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Brick19,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Brick32,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Brick36,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Brick37,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc2,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc3,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc4,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc5,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc6,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc7,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc8,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc9,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc10,1,-1,1,600,0.3"
+            ]
+        },
+		{
+            "CategoryName": "BBP Wallpaper 2",
+            "Products": [
+				"BBP_Wallpaper_Misc11,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc12,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc13,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc14,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc14A,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc15,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc16,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc17,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc18,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc19,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc19A,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc20,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc21,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc21A,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc22,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc23,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc24,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc25,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc26,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc26A,1,-1,1,600,0.3"
+			
+            ]
+        },
+		{
+            "CategoryName": "BBP Wallpaper 3",
+            "Products": [
+				"BBP_Wallpaper_Misc27,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc28,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc28A,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc29,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc30,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc31,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc32,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc33,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc34,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc35,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc36,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc37,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc38,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc39,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc40,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc41,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc42,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc43,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc44,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc45,1,-1,1,600,0.3"
+				
+            ]
+        },
+		{
+            "CategoryName": "BBP Wallpaper 4",
+            "Products": [
+				"BBP_Wallpaper_Misc46,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc47,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc48,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc49,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc49A,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc50,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc50A,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc51,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc52,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc53,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc54,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc55,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc56,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc57,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc57A,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc58,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc59,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc60,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc60A,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc61,1,-1,1,600,0.3"
+            ]
+        },
+		{
+            "CategoryName": "BBP Wallpaper 5",
+            "Products": [
+				"BBP_Wallpaper_Misc62,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc63,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc64,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc65,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc66,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc67,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc68,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc69,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc70,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc71,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc72,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc73,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc74,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc75,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc76,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc77,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc78,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc79,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc80,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc81,1,-1,1,600,0.3"
+            ]
+        },
+		{
+            "CategoryName": "BBP Wallpaper 6",
+            "Products": [
+				"BBP_Wallpaper_Misc82,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc83,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc84,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc85,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc86,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc87,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc88,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc89,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc90,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc91,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc92,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc93,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc94,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc95,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc96,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc97,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc98,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc99,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc100,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc101,1,-1,1,600,0.3"
+			
+            ]
+        },
+		{
+            "CategoryName": "BBP Wallpaper 7",
+            "Products": [
+				"BBP_Wallpaper_Misc102,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc103,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc104,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc105,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc106,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc107,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc108,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc109,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc110,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc111,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc112,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc113,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc114,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc115,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc116,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc117,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc118,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc119,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc120,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc121,1,-1,1,600,0.3"
+			
+            ]
+        },
+		{
+            "CategoryName": "BBP Wallpaper 8",
+            "Products": [
+				"BBP_Wallpaper_Misc122,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc123,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc124,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc125,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc126,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc127,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc128,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc129,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc130,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc131,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc132,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc133,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc134,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc135,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc136,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc137,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc138,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc139,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc140,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc141,1,-1,1,600,0.3"
+            ]
+        },
+		{
+            "CategoryName": "BBP Wallpaper 9",
+            "Products": [
+				"BBP_Wallpaper_Misc142,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc143,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc144,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc145,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc146,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc147,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc148,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc149,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc150,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc151,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc152,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc153,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc154,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc155,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc156,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc157,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc158,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc159,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc160,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc161,1,-1,1,600,0.3"
+            ]
+        },
+		{
+            "CategoryName": "BBP Wallpaper 10",
+            "Products": [
+				"BBP_Wallpaper_Misc162,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc163,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc164,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc165,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc166,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc167,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc168,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc169,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc170,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc171,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc172,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc173,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc174,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc175,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc176,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc177,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc178,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc179,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc180,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc181,1,-1,1,600,0.3"
+            ]
+        },
+		{
+            "CategoryName": "BBP Wallpaper 11",
+            "Products": [
+				"BBP_Wallpaper_Misc182,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc183,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc184,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc185,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc186,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc187,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc188,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc189,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc190,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc191,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc192,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc193,1,-1,1,600,0.3",
+				"BBP_Wallpaper_Misc194,1,-1,1,600,0.3"
+
+			
+            ]
+        }
+        
+    ]
+}
+

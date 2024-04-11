@@ -1,0 +1,32 @@
+{
+    "Version": "2.5",
+    "IDs": [
+        
+		{
+            "Id": 0,
+            "Categories": [
+				"BBP Carpet 1",
+				"BBP Carpet 2",
+				"BBP Carpet 3",
+				"BBP Carpet 4",
+				"BBP Carpet 5",
+				"BBP Carpet 6",
+				"BBP Carpet 7",
+				"BBP Carpet 8",
+				"BBP Carpet 9",
+				"BBP Carpet 10",
+				"BBP Carpet 11",
+				"BBP Carpet 12",
+				"BBP Carpet 13"
+				
+                                            
+            ],
+		    "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }
+		
+		
+		
+		
+	]		
+}
